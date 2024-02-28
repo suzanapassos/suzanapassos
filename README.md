@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/suzanapassos/suzanapassos/main/hi.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I am an eternal learner!<br><br> Front-end developer in progress, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>front-end development student</strong> focused on web development.</p>&nbsp;
+<p>Today, I'm a <strong>front-end development student</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=suzanapassos&theme=gotham&mode=weekly" />
@@ -22,7 +22,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/suzanapassos/suzanapassos/main/computer-illustrationremovebg2.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://i.ibb.co/XxR1xTB/Pngtree-grey-computer-laptop-illustration-office-3905222.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 #### Workstation Tools:
 
